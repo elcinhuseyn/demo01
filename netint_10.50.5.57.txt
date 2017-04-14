@@ -1,0 +1,61 @@
+Interface                      Status         Protocol Description
+Vl1                            admin down     down     
+Vl75                           up             up       
+Vl402                          up             up       
+Vl404                          up             up       
+Fa0                            admin down     down     
+Gi0/1                          up             up       
+Gi0/2                          down           down     
+Gi0/3                          up             up       
+Gi0/4                          down           down     
+Gi0/5                          down           down     
+Gi0/6                          down           down     
+Gi0/7                          down           down     
+Gi0/8                          down           down     
+Gi0/9                          down           down     
+Gi0/10                         up             up       
+Gi0/11                         up             up       
+Gi0/12                         up             up       
+Gi0/13                         admin down     down     ELCHIN_MELLIM_LAPTOP_CEOOO
+Gi0/14                         down           down     Kamil_python_test_int
+Gi0/15                         down           down     Kamil_python_test_int
+Gi0/16                         down           down     Kamil_python_test_int
+Gi0/17                         down           down     Kamil_python_test_int
+Gi0/18                         down           down     Kamil_python_test_int
+Gi0/19                         down           down     
+Gi0/20                         down           down     
+Gi0/21                         down           down     
+Gi0/22                         down           down     
+Gi0/23                         down           down     
+Gi0/24                         down           down     
+Gi0/25                         down           down     
+Gi0/26                         down           down     2911-test
+Gi0/27                         down           down     
+Gi0/28                         down           down     
+Gi0/29                         down           down     
+Gi0/30                         down           down     
+Gi0/31                         down           down     ASA2-0/1
+Gi0/32                         down           down     ASA2-0/2
+Gi0/33                         down           down     ASA2-0/0
+Gi0/34                         up             up       ASA-E0/0
+Gi0/35                         up             up       ASA-E0/1
+Gi0/36                         admin down     down     
+Gi0/37                         down           down     
+Gi0/38                         down           down     
+Gi0/39                         down           down     
+Gi0/40                         up             up       R3 SW module
+Gi0/41                         up             up       SW2.vlab.lan
+Gi0/42                         up             up       CISCO_WLC
+Gi0/43                         up             up       PSTN_Router
+Gi0/44                         up             up       R2.vlab.lan  
+Gi0/45                         up             up       R3.vlab.lan  
+Gi0/46                         up             up       
+Gi0/47                         up             up       
+Gi0/48                         up             up       UPL_CORESW
+Gi1/1                          down           down     
+Gi1/2                          down           down     
+Gi1/3                          down           down     
+Gi1/4                          down           down     
+Te1/1                          down           down     
+Te1/2                          down           down     
+Lo99                           up             up       
